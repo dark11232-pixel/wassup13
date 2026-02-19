@@ -1,0 +1,12 @@
+API 주소
+https://apis.data.go.kr/B551011/KorPetTourService2
+
+파라미터
+/ldongCode2?serviceKey=b298bdba1683b12802d68bd8b710b004e409fcb1783f788b5b379c73f4014727&numOfRows=10&pageNo=1&MobileOS=ETC&MobileApp=APP&lDongRegnCd=11&lDongListYn=N&_type=json
+
+
+https://apis.data.go.kr/B551011/KorPetTourService2/ldongCode2?serviceKey=b298bdba1683b12802d68bd8b710b004e409fcb1783f788b5b379c73f4014727&numOfRows=10&pageNo=1&MobileOS=ETC&MobileApp=APP&lDongRegnCd=11&lDongListYn=N&_type=json
+
+
+실습
+https://apis.data.go.kr/B551011/KorPetTourService2/detailPetTour2?serviceKey=b298bdba1683b12802d68bd8b710b004e409fcb1783f788b5b379c73f4014727&contentId=3446629&MobileApp=desktop&MobileOS=web

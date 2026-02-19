@@ -1,14 +1,7 @@
 # wassup13
 
-2/13 실습(Github 시작)
+2/19 실습
 
 ----------------------------------------------------------------------
 
-구정 연휴 할 일
-(바쁘다 바빠 현대사회)
-
-2/14 처가 선물세트 사전 전달
-2/17 본가 방문
-2/19 처가 방문
-
-남은 시간은 일단 프리덤!
+https://apis.data.go.kr/B551011/KorPetTourService2/detailPetTour2?serviceKey=b298bdba1683b12802d68bd8b710b004e409fcb1783f788b5b379c73f4014727&contentId=3446629&MobileApp=desktop&MobileOS=web
